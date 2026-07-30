@@ -1,134 +1,119 @@
-# Surya Sahasranamam — Baby Boy Name Candidates
+# Surya Sahasranamam — Modern Baby Boy Names
 
 **Deity / Subject:** Lord Surya (Sun God)  
 **Scriptural Source:** Samba Purana, Bhavishya Purana  
-**Filter:** Names starting with nakshatra syllables Sa · Si · Su · Se · Ja · Ji · Ga · Gu · De · La  
-**Total Names Found:** 59  
-**With Preferred Chaldean (1/3/6):** 19  
+**Method:** Each name is derived from Sanskrit roots of the original text —
+not a verbatim lift. Root extraction → contraction → modern 2-4 syllable form.  
+**Nakshatra Syllables:** Sa · Si · Su · Se · Ja · Ji · Ga · Gu · De · La  
+**Total Derived Names:** 27  
+**With Preferred Chaldean (1/3/6):** 8  
 
 ---
 
-## SA — (20 names)
+## How to Read This Table
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Sahasrakirana** | सहस्रकिरण | *Sahasrakiraṇa* | Thousand-rayed; blazing brilliance | 12 | 1 | ✦ |
-| 2 | **Sahasramshu** | सहस्रांशु | *Sahasrāṃśu* | Of a thousand rays; boundless radiance | 13 | 7 |  |
-| 3 | **Sahasrarchis** | सहस्रार्चिस | *Sahasrārciṣ* | Thousand-flamed; intensely radiant | 14 | 3 | ✦ |
-| 4 | **Sahasrateja** | सहस्रतेज | *Sahasrateja* | Of a thousand energies | 15 | 9 |  |
-| 5 | **Sakala** | सकल | *Sakala* | Complete; whole; perfect | 16 | 2 |  |
-| 6 | **Sandhyavandya** | सन्ध्यावन्द्य | *Sandhyāvandya* | Worshipped at the three sandhyas | 17 | 2 |  |
-| 7 | **Saptarashmi** | सप्तरश्मि | *Saptaraśmi* | Seven-rayed; the seven-beamed sun | 8 | 6 | ✦ |
-| 8 | **Saptarchis** | सप्तार्चिस | *Saptārciṣ* | Seven-flamed; seven solar rays | 10 | 4 |  |
-| 9 | **Saptashva** | सप्ताश्व | *Saptāśva* | Of seven horses; the week's driver | 9 | 5 |  |
-| 10 | **Sarvabhuteshvara** | सर्वभूतेश्वर | *Sarvabhūteśvara* | Lord of all beings | 3 | 8 |  |
-| 11 | **Sarvahetuka** | सर्वहेतुक | *Sarvahetuka* | Cause of all creation | 18 | 9 |  |
-| 12 | **Sarvajnanaya** | सर्वज्ञाय | *Sarvajñāya* | Omniscient solar deity | 2 | 1 | ✦ |
-| 13 | **Sarvakala** | सर्वकाल | *Sarvakāla* | All times; beyond time | 6 | 2 |  |
-| 14 | **Sarvaloka** | सर्वलोक | *Sarvaloka* | Present in all worlds | 5 | 7 |  |
-| 15 | **Sarvaprakasha** | सर्वप्रकाश | *Sarvaprakāśa* | Light of all; universal illuminator | 4 | 9 |  |
-| 16 | **Sarvashakti** | सर्वशक्ति | *Sarvaśakti* | All-powerful solar energy | 7 | 2 |  |
-| 17 | **Sarvatman** | सर्वात्मन | *Sarvātman* | Universal soul; soul of all | 1 | 9 |  |
-| 18 | **Saura** | सौर | *Saura* | Solar; relating to the sun | 20 | 4 |  |
-| 19 | **Saurabha** | सौरभ | *Saurabha* | Of divine fragrance; solar sweet scent | 19 | 3 | ✦ |
-| 20 | **Savita** | सविता | *Savitā* | The vivifier; energizer of life | 11 | 7 |  |
+| Column | Meaning |
+|--------|---------|
+| **Derived From** | The original sahasranama epithet (verse word) |
+| **Name** | The new modern baby boy name derived from it |
+| **Derivation** | How the name was formed from Sanskrit roots |
+| **Chaldean ✦** | Final numerology value; ✦ = preferred (1, 3, or 6) |
+| **Feel** | Modern-feel score 1-5 (5 = most contemporary-sounding) |
 
-## SI — (2 names)
+---
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Sikhanda** | शिखण्ड | *Śikhaṇḍa* | Crested one; with flame-crest | 21 | 4 |  |
-| 2 | **Sikhivahana** | शिखिवाहन | *Śikhivāhana* | Fire-vehicle; flame-rider | 22 | 4 |  |
+## SA — (7 names)
 
-## SU — (11 names)
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Sahasrakiran* | **Sahasrakiran** | सहस्रकिरण | Blazing with infinite radiance; endlessly brilliant | sahasrakiraṇa → already clean | 9 |  | 4/5 |
+| *Sandhyesh* | **Sandhyesh** | सन्ध्येश | Lord of the twilight; master of transitions | sandhyā + īśa → sandhyeśa → sandhyesh | 5 |  | 5/5 |
+| *Saptarashm* | **Saptarashmit** | सप्तरश्मित | Seven-rayed; multi-directional brilliance | saptaraśmi → + -t suffix | 1 | ✦ | 4/5 |
+| *Saurabh* | **Saurabh** | सौरभ | Of divine fragrance; sweetly radiant | saurabha → drop -a | 2 |  | 4/5 |
+| *Sauryan* | **Sauryan** | सौर्यन | Solar spirit; blazing with the sun's courage | saura root + -n modern suffix | 1 | ✦ | 5/5 |
+| *Savijit* | **Savijit** | सविजित | Victorious energizer; conquering through light | savitā root sav + jit | 8 |  | 5/5 |
+| *Savrajan* | **Savrajan** | सव्राजन | Brilliantly ruling; sovereign with solar radiance | saura (solar) + rāja + -n | 2 |  | 5/5 |
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Subhaga** | सुभग | *Subhaga* | Supremely fortunate; auspicious | 28 | 3 | ✦ |
-| 2 | **Subhankara** | शुभङ्कर | *Śubhaṅkara* | Bestower of good; auspiciousness | 29 | 1 | ✦ |
-| 3 | **Sukhi** | सुखी | *Sukhī* | Blissful; joyful one | 30 | 8 |  |
-| 4 | **Sukla** | शुक्ल | *Śukla* | Pure white light; radiant purity | 31 | 6 | ✦ |
-| 5 | **Supta** | सुप्त | *Supta* | Ever-awake; beyond sleep | 32 | 4 |  |
-| 6 | **Surya** | सूर्य | *Sūrya* | The Sun; the solar deity | 23 | 4 |  |
-| 7 | **Suryamandala** | सूर्यमण्डल | *Sūryamaṇḍala* | Solar disk; orb of the sun | 24 | 5 |  |
-| 8 | **Suryanarayana** | सूर्यनारायण | *Sūryanārāyaṇa* | Solar Narayana; Vishnu as the Sun | 25 | 3 | ✦ |
-| 9 | **Suryaprakasha** | सूर्यप्रकाश | *Sūryaprakāśa* | Sunlight; solar radiance | 26 | 9 |  |
-| 10 | **Suryatman** | सूर्यात्मन | *Sūryātman* | Soul of the Sun; solar self | 27 | 9 |  |
-| 11 | **Suvarchas** | सुवर्चस | *Suvarcas* | Of great spiritual lustre | 33 | 3 | ✦ |
+## SI — (1 names)
 
-## JA — (10 names)
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Sikhesh* | **Sikhesh** | शिखेश | Flame-lord; one who leads with blazing energy | śikhaṇḍa root śikha (flame) + īśa | 6 | ✦ | 5/5 |
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Jagachakshus** | जगच्चक्षुस | *Jagaccakṣuṣ* | Eye of the universe; cosmic vision | 34 | 7 |  |
-| 2 | **Jagaddhata** | जगद्धाता | *Jagaddhātā* | Sustainer of the universe | 35 | 7 |  |
-| 3 | **Jagadguru** | जगद्गुरु | *Jagadguru* | Universal preceptor; teacher of all worlds | 36 | 9 |  |
-| 4 | **Jagadisha** | जगदीश | *Jagadīśa* | Lord of the universe | 37 | 2 |  |
-| 5 | **Jagajjivana** | जगज्जीवन | *Jagajjīvana* | Life of the universe | 38 | 4 |  |
-| 6 | **Jagatpita** | जगत्पिता | *Jagatpitā* | Father of the universe | 39 | 6 | ✦ |
-| 7 | **Jagatprakasha** | जगत्प्रकाश | *Jagatprakāśa* | Light of the universe | 40 | 6 | ✦ |
-| 8 | **Jagatsakshi** | जगत्साक्षी | *Jagatsākṣī* | Witness of all; cosmic observer | 41 | 7 |  |
-| 9 | **Jaya** | जय | *Jaya* | Victor; the triumphant one | 42 | 4 |  |
-| 10 | **Jayaprada** | जयप्रद | *Jayaprada* | Giver of victory | 43 | 2 |  |
+## SU — (6 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Subhesh* | **Subhesh** | शुभेश | Lord of the auspicious; master of blessings | subhankara root śubha + īśa | 2 |  | 5/5 |
+| *Suryaan* | **Suryaan** | सूर्यान | Of the Sun; solar in spirit and nature | sūrya + -ān | 1 | ✦ | 5/5 |
+| *Suryaansh* | **Suryaansh** | सूर्यांश | Born of the Sun; a portion of solar light | sūrya + aṃśa | 9 |  | 5/5 |
+| *Suryanshu* | **Suryanshu** | सूर्यांशु | Ray of the Sun; a beam of solar brilliance | sūrya + aṃśu (ray) | 5 |  | 4/5 |
+| *Suryesh* | **Suryesh** | सूर्येश | Lord of the Sun; commanding solar power | sūrya + īśa → sūryeśa → suryesh | 7 |  | 5/5 |
+| *Suvarchan* | **Suvarchan** | सुवर्चन | Of great spiritual lustre; radiantly alive | suvarcas + -an modern suffix | 5 |  | 5/5 |
+
+## JA — (3 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Jagatpran* | **Jagatpran** | जगत्प्राण | Life-force of the universe; vitally luminous | jagatprāṇa → drop -a | 8 |  | 5/5 |
+| *Jagesh* | **Jagesh** | जगेश | Lord of the world; universally sovereign | jagadīśa → compress → jagesh | 9 |  | 5/5 |
+| *Jayesh* | **Jayesh** | जयेश | Lord of victory; master of every triumph | jayaprada root jaya + īśa | 7 |  | 5/5 |
 
 ## GA — (4 names)
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Gaganachara** | गगनचर | *Gaganacara* | Traveler of the sky; solar being | 44 | 8 |  |
-| 2 | **Gaganaprabha** | गगनप्रभ | *Gaganaprabha* | Radiant in the sky; sky-splendor | 45 | 6 | ✦ |
-| 3 | **Gaganashaya** | গগनशाय | *Gaganśāya* | Resting in the sky; sky-dweller | 46 | 7 |  |
-| 4 | **Gatiman** | गतिमान | *Gatimān* | Swift mover; dynamic force | 47 | 1 | ✦ |
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Gaganesh* | **Gaganesh** | गगनेश | Lord of the sky; sovereign of the open heavens | gaganacara root gagana + īśa | 8 |  | 5/5 |
+| *Gaganprabh* | **Gaganprabh** | गगनप्रभ | Radiant in the sky; shining across all horizons | gaganaprabha → drop -a | 4 |  | 5/5 |
+| *Gatiman* | **Gatiman** | गतिमान | Swiftly moving; dynamic and unstoppable | gatimān → already short and modern | 1 | ✦ | 5/5 |
+| *Gauresh* | **Gauresh** | गौरेश | Radiant sovereign; brilliantly commanding | gatimān context + gaura root | 7 |  | 5/5 |
 
-## GU — (2 names)
+## DE — (4 names)
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Gunadhara** | गुणधर | *Guṇadhara* | Bearer of all virtues | 49 | 1 | ✦ |
-| 2 | **Gunagrahi** | गुणग्राही | *Guṇagrāhī* | Recognizer of virtues | 50 | 9 |  |
-
-## DE — (8 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Deva** | देव | *Deva* | The divine shining one | 51 | 7 |  |
-| 2 | **Devadeva** | देवदेव | *Devadeva* | God of gods | 52 | 5 |  |
-| 3 | **Devaloka** | देवलोक | *Devaloka* | Of the divine realm; celestial world | 53 | 1 | ✦ |
-| 4 | **Devapriya** | देवप्रिय | *Devapriya* | Beloved of all gods | 54 | 2 |  |
-| 5 | **Devaraja** | देवराज | *Devarāja* | King of the gods; divine sovereign | 55 | 3 | ✦ |
-| 6 | **Devasena** | देवसेन | *Devasena* | Lord of the divine army | 57 | 3 | ✦ |
-| 7 | **Devashri** | देवश्री | *Devaśrī* | Divine glory; radiance of the divine | 56 | 9 |  |
-| 8 | **Deveshvara** | देवेश्वर | *Deveśvara* | God of all gods | 58 | 2 |  |
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Devansh* | **Devansh** | देवांश | Born of the divine; a fragment of cosmic light | deva + aṃśa | 2 |  | 5/5 |
+| *Devesh* | **Devesh** | देवेश | God of gods; supreme divine authority | devadeva → deveśa → devesh | 1 | ✦ | 5/5 |
+| *Devraj* | **Devraj** | देवराज | King of the divine; natural sovereign | devarāja → drop -a | 1 | ✦ | 4/5 |
+| *Devyan* | **Devyan** | देव्यन | On the divine path; moving toward the sacred | deva + yana (journey) | 4 |  | 5/5 |
 
 ## LA — (2 names)
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Lakshmivasa** | लक्ष्मीवास | *Lakṣmīvāsa* | Abode of Lakshmi; where fortune lives | 59 | 3 | ✦ |
-| 2 | **Lavanya** | लावण्य | *Lāvaṇya* | Grace; golden beauty | 60 | 9 |  |
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Lakshansh* | **Lakshansh** | लक्षांश | Born of fortune; marked by auspiciousness | lakṣmīvāsa root lakṣa + aṃśa | 1 | ✦ | 5/5 |
+| *Lavesh* | **Lavesh** | लवेश | Graceful lord; commanding with beauty and light | lāvaṇya root lav + īśa | 5 |  | 5/5 |
 
 ---
 
-## Top Picks — Preferred Chaldean Numbers (1, 3, 6)
+## Top Picks — Highest Modern Feel + Preferred Chaldean
 
-| Name | Syllable | Chaldean | Devanagari | Meaning |
-|------|----------|----------|------------|---------|
-| **Devaloka** | DE | 1✦ | देवलोक | Of the divine realm; celestial world |
-| **Gatiman** | GA | 1✦ | गतिमान | Swift mover; dynamic force |
-| **Gunadhara** | GU | 1✦ | गुणधर | Bearer of all virtues |
-| **Sahasrakirana** | SA | 1✦ | सहस्रकिरण | Thousand-rayed; blazing brilliance |
-| **Sarvajnanaya** | SA | 1✦ | सर्वज्ञाय | Omniscient solar deity |
-| **Subhankara** | SU | 1✦ | शुभङ्कर | Bestower of good; auspiciousness |
-| **Devaraja** | DE | 3✦ | देवराज | King of the gods; divine sovereign |
-| **Devasena** | DE | 3✦ | देवसेन | Lord of the divine army |
-| **Lakshmivasa** | LA | 3✦ | लक्ष्मीवास | Abode of Lakshmi; where fortune lives |
-| **Sahasrarchis** | SA | 3✦ | सहस्रार्चिस | Thousand-flamed; intensely radiant |
-| **Saurabha** | SA | 3✦ | सौरभ | Of divine fragrance; solar sweet scent |
-| **Subhaga** | SU | 3✦ | सुभग | Supremely fortunate; auspicious |
-| **Suryanarayana** | SU | 3✦ | सूर्यनारायण | Solar Narayana; Vishnu as the Sun |
-| **Suvarchas** | SU | 3✦ | सुवर्चस | Of great spiritual lustre |
-| **Gaganaprabha** | GA | 6✦ | गगनप्रभ | Radiant in the sky; sky-splendor |
-| **Jagatpita** | JA | 6✦ | जगत्पिता | Father of the universe |
-| **Jagatprakasha** | JA | 6✦ | जगत्प्रकाश | Light of the universe |
-| **Saptarashmi** | SA | 6✦ | सप्तरश्मि | Seven-rayed; the seven-beamed sun |
-| **Sukla** | SU | 6✦ | शुक्ल | Pure white light; radiant purity |
+| Name | Syllable | Chaldean | Devanagari | Meaning | Derived From |
+|------|----------|----------|------------|---------|-------------|
+| **Devesh** | DE | 1✦ | देवेश | God of gods; supreme divine authority | *Devesh* |
+| **Gatiman** | GA | 1✦ | गतिमान | Swiftly moving; dynamic and unstoppable | *Gatiman* |
+| **Lakshansh** | LA | 1✦ | लक्षांश | Born of fortune; marked by auspiciousness | *Lakshansh* |
+| **Sauryan** | SA | 1✦ | सौर्यन | Solar spirit; blazing with the sun's courage | *Sauryan* |
+| **Sikhesh** | SI | 6✦ | शिखेश | Flame-lord; one who leads with blazing energy | *Sikhesh* |
+| **Suryaan** | SU | 1✦ | सूर्यान | Of the Sun; solar in spirit and nature | *Suryaan* |
+| **Devansh** | DE | 2 | देवांश | Born of the divine; a fragment of cosmic light | *Devansh* |
+| **Devyan** | DE | 4 | देव्यन | On the divine path; moving toward the sacred | *Devyan* |
+| **Gaganesh** | GA | 8 | गगनेश | Lord of the sky; sovereign of the open heavens | *Gaganesh* |
+| **Gaganprabh** | GA | 4 | गगनप्रभ | Radiant in the sky; shining across all horizons | *Gaganprabh* |
+| **Gauresh** | GA | 7 | गौरेश | Radiant sovereign; brilliantly commanding | *Gauresh* |
+| **Jagatpran** | JA | 8 | जगत्प्राण | Life-force of the universe; vitally luminous | *Jagatpran* |
+| **Jagesh** | JA | 9 | जगेश | Lord of the world; universally sovereign | *Jagesh* |
+| **Jayesh** | JA | 7 | जयेश | Lord of victory; master of every triumph | *Jayesh* |
+| **Lavesh** | LA | 5 | लवेश | Graceful lord; commanding with beauty and light | *Lavesh* |
+| **Sandhyesh** | SA | 5 | सन्ध्येश | Lord of the twilight; master of transitions | *Sandhyesh* |
+| **Savijit** | SA | 8 | सविजित | Victorious energizer; conquering through light | *Savijit* |
+| **Savrajan** | SA | 2 | सव्राजन | Brilliantly ruling; sovereign with solar radiance | *Savrajan* |
+| **Subhesh** | SU | 2 | शुभेश | Lord of the auspicious; master of blessings | *Subhesh* |
+| **Suryaansh** | SU | 9 | सूर्यांश | Born of the Sun; a portion of solar light | *Suryaansh* |
+| **Suryesh** | SU | 7 | सूर्येश | Lord of the Sun; commanding solar power | *Suryesh* |
+| **Suvarchan** | SU | 5 | सुवर्चन | Of great spiritual lustre; radiantly alive | *Suvarchan* |
+| **Devraj** | DE | 1✦ | देवराज | King of the divine; natural sovereign | *Devraj* |
+| **Saptarashmit** | SA | 1✦ | सप्तरश्मित | Seven-rayed; multi-directional brilliance | *Saptarashm* |
+| **Sahasrakiran** | SA | 9 | सहस्रकिरण | Blazing with infinite radiance; endlessly brilliant | *Sahasrakiran* |
+| **Saurabh** | SA | 2 | सौरभ | Of divine fragrance; sweetly radiant | *Saurabh* |
+| **Suryanshu** | SU | 5 | सूर्यांशु | Ray of the Sun; a beam of solar brilliance | *Suryanshu* |

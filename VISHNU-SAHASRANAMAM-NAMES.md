@@ -1,236 +1,203 @@
-# Vishnu Sahasranamam — Baby Boy Name Candidates
+# Vishnu Sahasranamam — Modern Baby Boy Names
 
 **Deity / Subject:** Lord Vishnu  
 **Scriptural Source:** Anushasana Parva (Mahabharata), Bhagavata Purana  
-**Filter:** Names starting with nakshatra syllables Sa · Si · Su · Se · Ja · Ji · Ga · Gu · De · La  
-**Total Names Found:** 145  
-**With Preferred Chaldean (1/3/6):** 47  
+**Method:** Each name is derived from Sanskrit roots of the original text —
+not a verbatim lift. Root extraction → contraction → modern 2-4 syllable form.  
+**Nakshatra Syllables:** Sa · Si · Su · Se · Ja · Ji · Ga · Gu · De · La  
+**Total Derived Names:** 64  
+**With Preferred Chaldean (1/3/6):** 21  
 
 ---
 
-## SA — (44 names)
+## How to Read This Table
 
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Sahasrajit** | सहस्रजित | *Sahasrajit* | Conqueror of thousands; invincible hero | 24 | 4 |  |
-| 2 | **Sahasraksha** | सहस्राक्ष | *Sahasrākṣa* | Thousand-eyed; all-seeing | 20 | 9 |  |
-| 3 | **Sahasramurddha** | सहस्रमूर्ध | *Sahasramūrdha* | Thousand-headed; cosmic form | 25 | 6 | ✦ |
-| 4 | **Sahasranama** | सहस्रनाम | *Sahasranāma* | He of a thousand names; infinitely named | 23 | 9 |  |
-| 5 | **Sahasrapada** | सहस्रपाद | *Sahasrapāda* | Thousand-footed; pervading all directions | 21 | 3 | ✦ |
-| 6 | **Sahasrarchis** | सहस्रार्चिस | *Sahasrārciṣ* | Thousand-rayed; blazing with infinite light | 22 | 3 | ✦ |
-| 7 | **Sakshi** | साक्षी | *Sākṣī* | The pure witness; unchanging observer | 26 | 6 | ✦ |
-| 8 | **Sakshin** | साक्षिन | *Sākṣin* | The eternal witness; silent observer | 11 | 2 |  |
-| 9 | **Sama** | साम | *Sāma* | Tranquil; equanimous; the equalizer | 17 | 9 |  |
-| 10 | **Samadhivedya** | समाधिवेद्य | *Samādhivedya* | Known through deep meditation | 38 | 9 |  |
-| 11 | **Samagra** | समग्र | *Samagra* | Complete and whole; total perfection | 37 | 6 | ✦ |
-| 12 | **Samastha** | समस्थ | *Samastha* | Equally present; balanced in all | 18 | 4 |  |
-| 13 | **Sambhava** | सम्भव | *Sambhava* | The self-manifest; one who is self-born | 14 | 5 |  |
-| 14 | **Samharta** | संहर्ता | *Saṃhartā* | The dissolver; reabsorber of the universe | 16 | 3 | ✦ |
-| 15 | **Samitinjaya** | समितिञ्जय | *Samitinjaya* | Victor in all assemblies and battles | 19 | 5 |  |
-| 16 | **Samksheptha** | संक्षेप्ता | *Saṃkṣeptā* | The one who withdraws creation at dissolution | 15 | 5 |  |
-| 17 | **Sanatana** | सनातन | *Sanātana* | The eternal one; without beginning or end | 12 | 3 | ✦ |
-| 18 | **Sanatkumara** | सनत्कुमार | *Sanatkumāra* | The ever-youthful one; eternally young | 13 | 3 | ✦ |
-| 19 | **Sankhabhrit** | शङ्खभृत | *Śaṅkhabhṛt* | Bearer of the conch Panchajanya | 27 | 4 |  |
-| 20 | **Sarathi** | सारथि | *Sārathi* | The charioteer; guide on the path of dharma | 28 | 8 |  |
-| 21 | **Sarva** | सर्व | *Sarva* | The all-pervading one; present in all beings | 1 | 4 |  |
-| 22 | **Sarvabhavana** | सर्वभावन | *Sarvabhāvana* | Creator and sustainer of all existence | 3 | 7 |  |
-| 23 | **Sarvabhuta** | सर्वभूत | *Sarvabhūta* | Present in all beings; all-pervading spirit | 8 | 4 |  |
-| 24 | **Sarvadarshi** | सर्वदर्शी | *Sarvadarśī* | All-seeing; perceiver of everything | 42 | 2 |  |
-| 25 | **Sarvadharma** | सर्वधर्म | *Sarvadharm* | Support of all dharmas; cosmic law | 41 | 3 | ✦ |
-| 26 | **Sarvagatah** | सर्वगतः | *Sarvagataḥ* | One who moves through all; omnipresent | 2 | 9 |  |
-| 27 | **Sarvaishvarya** | सर्वैश्वर्य | *Sarvaiśvarya* | Possessor of all sovereignty and wealth | 44 | 6 | ✦ |
-| 28 | **Sarvajna** | सर्वज्ञ | *Sarvajña* | All-knowing; omniscient | 40 | 2 |  |
-| 29 | **Sarvakrit** | सर्वकृत | *Sarvakṛt* | Doer of everything; maker of all | 5 | 4 |  |
-| 30 | **Sarvapala** | सर्वपाल | *Sarvapāla* | Protector of all creation | 4 | 8 |  |
-| 31 | **Sarvashakti** | सर्वशक्ति | *Sarvaśakti* | Omnipotent; possessor of all power | 43 | 2 |  |
-| 32 | **Sarvatomukha** | सर्वतोमुख | *Sarvatomukha* | One with faces in all directions; omnidirectional | 9 | 5 |  |
-| 33 | **Sarvavid** | सर्वविद | *Sarvavid* | Knower of all; omniscient | 6 | 6 | ✦ |
-| 34 | **Sarvayoni** | सर्वयोनि | *Sarvayoni* | Source of all creation; origin of all | 10 | 8 |  |
-| 35 | **Sarvesha** | सर्वेश | *Sarveśa* | Lord of all; master of the universe | 7 | 8 |  |
-| 36 | **Satpatha** | सत्पथ | *Satpatha* | The righteous path; way of truth | 29 | 9 |  |
-| 37 | **Satyakirti** | सत्यकीर्ति | *Satyakīrti* | Of true and eternal fame | 30 | 2 |  |
-| 38 | **Satyamedha** | सत्यमेध | *Satyamedha* | Of true wisdom; genuinely intelligent | 34 | 2 |  |
-| 39 | **Satyaparayan** | सत्यपरायण | *Satyaparāyaṇa* | Devoted to truth above all | 36 | 2 |  |
-| 40 | **Satyasandha** | सत्यसन्ध | *Satyasandha* | True to all promises; faithful to pledges | 35 | 2 |  |
-| 41 | **Satyavak** | सत्यवाक | *Satyavāk* | One whose words are always truth | 31 | 1 | ✦ |
-| 42 | **Satyavikrama** | सत्यविक्रम | *Satyavikrama* | Of true heroic valor; genuinely powerful | 33 | 9 |  |
-| 43 | **Satyavrata** | सत्यव्रत | *Satyavrata* | Pledged to truth; upholder of sacred vow | 32 | 6 | ✦ |
-| 44 | **Savita** | सविता | *Savitā* | The vivifier; one who energizes all life | 39 | 7 |  |
-
-## SI — (7 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Siddha** | सिद्ध | *Siddha* | The accomplished one; perfected being | 45 | 9 |  |
-| 2 | **Siddhartha** | सिद्धार्थ | *Siddhārtha* | One who has accomplished all aims | 46 | 3 | ✦ |
-| 3 | **Siddhasankalpa** | सिद्धसंकल्प | *Siddhasaṃkalpa* | One whose every resolve is fulfilled | 48 | 6 | ✦ |
-| 4 | **Siddhida** | सिद्धिद | *Siddhida* | Bestower of spiritual accomplishment | 47 | 5 |  |
-| 5 | **Simhanada** | सिंहनाद | *Siṃhanāda* | Whose roar is like a lion; fearless proclamation | 50 | 7 |  |
-| 6 | **Simhavikrama** | सिंहविक्रम | *Siṃhavikrama* | Of lion-like valor; supremely courageous | 49 | 4 |  |
-| 7 | **Sivah** | शिवः | *Śivaḥ* | The auspicious one; pure consciousness | 51 | 7 |  |
-
-## SU — (37 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Subhanga** | सुभाङ्ग | *Subhāṅga* | Of beautiful form; perfectly proportioned | 55 | 8 |  |
-| 2 | **Subhrada** | सुभ्राद | *Subhrāda* | Shining brilliantly; radiantly luminous | 57 | 6 | ✦ |
-| 3 | **Subhuja** | सुभुज | *Subhuja* | Of auspicious arms; possessing divine strength | 56 | 6 | ✦ |
-| 4 | **Sudhama** | सुधाम | *Sudhāma* | Of beautiful abode; dwelling in glory | 58 | 6 | ✦ |
-| 5 | **Sudhira** | सुधीर | *Sudhīra* | Very wise and courageous; calm and bold | 59 | 4 |  |
-| 6 | **Sugriva** | सुग्रीव | *Sugrīva* | Of beautiful neck; handsome throat | 61 | 4 |  |
-| 7 | **Sujata** | सुजात | *Sujāta* | Of noble birth; well-born | 62 | 7 |  |
-| 8 | **Sujna** | सुज्ञ | *Sujña* | Of excellent wisdom; truly knowing | 63 | 7 |  |
-| 9 | **Sukarmakrit** | सुकर्मकृत | *Sukarmakṛt* | Doer of auspicious deeds; righteous actor | 64 | 1 | ✦ |
-| 10 | **Sukha** | सुख | *Sukha* | Bliss; happiness; the essence of joy | 65 | 8 |  |
-| 11 | **Sukhada** | सुखद | *Sukhada* | Giver of happiness and bliss | 52 | 4 |  |
-| 12 | **Sukhama** | सुखमा | *Sukhāma* | Extremely pleasant; supremely enjoyable | 66 | 4 |  |
-| 13 | **Sukhi** | सुखी | *Sukhī* | The blissful one; ever joyful | 53 | 8 |  |
-| 14 | **Sukla** | शुक्ल | *Śukla* | The pure white one; radiant with purity | 54 | 6 | ✦ |
-| 15 | **Sukratu** | सुक्रतु | *Sukratu* | Of excellent resolve; perfectly intentional | 67 | 6 | ✦ |
-| 16 | **Sulabha** | सुलभ | *Sulabha* | Easily attained by devotees; accessible | 68 | 3 | ✦ |
-| 17 | **Sumana** | सुमन | *Sumana* | Of beautiful mind; pure intellect | 69 | 2 |  |
-| 18 | **Sumedha** | सुमेध | *Sumedha* | Of excellent intelligence; brilliantly wise | 70 | 1 | ✦ |
-| 19 | **Sunama** | सुनाम | *Sunāma* | Of auspicious name; beautifully named | 71 | 2 |  |
-| 20 | **Sunishchita** | सुनिश्चित | *Suniścita* | Absolutely certain; perfectly resolute | 72 | 1 | ✦ |
-| 21 | **Suparna** | सुपर्ण | *Suparṇa* | Of beautiful wings; Garuda epithet | 73 | 8 |  |
-| 22 | **Suprakasha** | सुप्रकाश | *Suprakāśa* | Supremely luminous; brilliantly manifest | 74 | 5 |  |
-| 23 | **Suprasada** | सुप्रसाद | *Suprasāda* | Supremely gracious; abundantly graceful | 75 | 2 |  |
-| 24 | **Suprita** | सुप्रीत | *Suprīta* | Greatly pleased; deeply beloved | 76 | 7 |  |
-| 25 | **Sura** | सुर | *Sura* | Divine being; lord of the celestials | 77 | 3 | ✦ |
-| 26 | **Suradhyaksha** | सुराध्यक्ष | *Surādhyakṣa* | Presiding deity of the gods | 78 | 7 |  |
-| 27 | **Surananda** | सुरानन्द | *Surānanda* | Bliss of the gods; divine joy | 79 | 1 | ✦ |
-| 28 | **Surapati** | सुरपति | *Surapati* | Lord of the celestial gods | 80 | 8 |  |
-| 29 | **Suresha** | सुरेश | *Sureśa* | Ruler of all gods; sovereign of divinity | 81 | 7 |  |
-| 30 | **Sureshvara** | सुरेश्वर | *Sureśvara* | God of gods; supreme divine ruler | 82 | 7 |  |
-| 31 | **Suryatman** | सूर्यात्मन | *Sūryātman* | Soul of the Sun; solar self | 83 | 9 |  |
-| 32 | **Sutantu** | सुतन्तु | *Sutantu* | Weaver of all existence; cosmic weaver | 84 | 2 |  |
-| 33 | **Suvarna** | सुवर्ण | *Suvarṇa* | Golden; of excellent color and quality | 85 | 6 | ✦ |
-| 34 | **Suvela** | सुवेल | *Suvela* | Of beautiful shore; auspicious boundary | 86 | 6 | ✦ |
-| 35 | **Suvikrama** | सुविक्रम | *Suvikrama* | Of excellent valor; supremely heroic | 87 | 8 |  |
-| 36 | **Suvrata** | सुव्रत | *Suvrata* | Of excellent vow; perfectly devoted | 88 | 5 |  |
-| 37 | **Suyajna** | सुयज्ञ | *Suyajña* | Of excellent sacrifice; perfect ritual | 89 | 9 |  |
-
-## JA — (13 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Jagadananda** | जगदानन्द | *Jagadānanda* | Bliss of the universe; cosmic joy | 95 | 9 |  |
-| 2 | **Jagadguru** | जगद्गुरु | *Jagadguru* | Universal teacher; guru of all worlds | 92 | 9 |  |
-| 3 | **Jagadisha** | जगदीश | *Jagadīśa* | Lord of the universe | 91 | 2 |  |
-| 4 | **Jagadyoni** | जगद्योनि | *Jagadyoni* | Womb of the universe; source of all | 93 | 5 |  |
-| 5 | **Jagannatha** | जगन्नाथ | *Jagannātha* | Lord of the universe; cosmic master | 94 | 9 |  |
-| 6 | **Jagat** | जगत | *Jagat* | The universe; all that moves | 90 | 1 | ✦ |
-| 7 | **Jagatkarta** | जगत्कर्ता | *Jagatkartā* | Creator of the universe | 96 | 2 |  |
-| 8 | **Jagatprana** | जगत्प्राण | *Jagatprāṇa* | Life-force of the universe | 97 | 9 |  |
-| 9 | **Jagatsakshi** | जगत्साक्षी | *Jagatsākṣī* | Witness of the entire universe | 98 | 7 |  |
-| 10 | **Jagatsetu** | जगत्सेतु | *Jagatsetu* | Bridge of the universe; cosmic link | 99 | 1 | ✦ |
-| 11 | **Jaya** | जय | *Jaya* | Victory; the ever-victorious one | 100 | 4 |  |
-| 12 | **Jayanta** | जयन्त | *Jayanta* | Victorious in the end; son of Indra | 101 | 5 |  |
-| 13 | **Jayatsen** | जयत्सेन | *Jayatsen* | Whose armies are victorious | 102 | 3 | ✦ |
-
-## JI — (7 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Jishnu** | जिष्णु | *Jiṣṇu* | Victorious; the conquering one | 106 | 3 | ✦ |
-| 2 | **Jitakrodha** | जितक्रोध | *Jitakrodha* | Conqueror of anger; free of rage | 104 | 9 |  |
-| 3 | **Jitamitra** | जितमित्र | *Jitamitra* | One who wins friends; affectionate victor | 105 | 1 | ✦ |
-| 4 | **Jitatman** | जितात्मन | *Jitātman* | One who has conquered the self | 103 | 3 | ✦ |
-| 5 | **Jivadhara** | जीवधार | *Jīvadhāra* | Sustainer of all life; life-support | 107 | 4 |  |
-| 6 | **Jivana** | जीवन | *Jīvana* | Life itself; the living principle | 109 | 6 | ✦ |
-| 7 | **Jivanida** | जीवनिद | *Jīvanida* | Treasury of life; life-giver | 108 | 2 |  |
-
-## GA — (12 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Gabhira** | गभीर | *Gabhīra* | Profound; deep like the ocean | 111 | 6 | ✦ |
-| 2 | **Gada** | गद | *Gada* | Bearer of the mace; wielder of power | 112 | 9 |  |
-| 3 | **Gadagraja** | गदाग्रज | *Gadāgraja* | Elder brother of Gada (Krishna epithet) | 113 | 8 |  |
-| 4 | **Gaganeshvara** | गगनेश्वर | *Gaganēśvara* | Lord of the sky; sovereign of space | 114 | 9 |  |
-| 5 | **Gahana** | गहन | *Gahana* | Unfathomable; deep and mysterious | 115 | 7 |  |
-| 6 | **Gajanana** | गजानन | *Gajānana* | Elephant-faced; Lord Ganesha epithet | 110 | 9 |  |
-| 7 | **Gananatha** | गणनाथ | *Gaṇanātha* | Lord of all groups; master of hosts | 116 | 8 |  |
-| 8 | **Ganapati** | गणपति | *Gaṇapati* | Lord of all ganas (celestial hosts) | 117 | 6 | ✦ |
-| 9 | **Gandharva** | गन्धर्व | *Gandharva* | Celestial musician; heavenly being | 118 | 1 | ✦ |
-| 10 | **Garuda** | गरुड | *Garuḍa* | The divine eagle; vehicle of Vishnu | 119 | 8 |  |
-| 11 | **Garudadhvaja** | गरुडध्वज | *Garuḍadhvaja* | One whose banner bears the eagle sign | 120 | 8 |  |
-| 12 | **Gatiman** | गतिमान | *Gatimān* | The swift mover; one with great momentum | 121 | 1 | ✦ |
-
-## GU — (8 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Guhya** | गुह्य | *Guhya* | The hidden one; secret and mysterious | 122 | 7 |  |
-| 2 | **Gunakara** | गुणकर | *Guṇakara* | Mine of virtues; source of qualities | 123 | 3 | ✦ |
-| 3 | **Gunakrit** | गुणकृत | *Guṇakṛt* | Creator of qualities; bestower of virtues | 124 | 6 | ✦ |
-| 4 | **Gunatman** | गुणात्मन | *Guṇātman* | The soul of all qualities | 125 | 2 |  |
-| 5 | **Gunoda** | गुणोद | *Guṇoda* | Ocean of virtues; inexhaustible source | 126 | 7 |  |
-| 6 | **Guru** | गुरु | *Guru* | The weighty one; the great teacher | 127 | 8 |  |
-| 7 | **Gurudev** | गुरुदेव | *Gurudeva* | Divine teacher; lord who guides | 128 | 5 |  |
-| 8 | **Guruprasad** | गुरुप्रसाद | *Guruprasāda* | Grace of the teacher; divine blessing | 129 | 9 |  |
-
-## DE — (11 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Deva** | देव | *Deva* | The shining one; divine being | 130 | 7 |  |
-| 2 | **Devabhrit** | देवभृत | *Devabhṛt* | Supporter of the gods; sustainer of divinity | 131 | 3 | ✦ |
-| 3 | **Devadeva** | देवदेव | *Devadeva* | God of gods; supreme deity | 132 | 5 |  |
-| 4 | **Devajna** | देवज्ञ | *Devajña* | Knower of the divine; god-knowing | 135 | 5 |  |
-| 5 | **Devakiya** | देवकीय | *Devakīya* | Son of Devaki; Krishna epithet | 133 | 3 | ✦ |
-| 6 | **Devanatha** | देवनाथ | *Devanātha* | Lord and protector of the gods | 136 | 5 |  |
-| 7 | **Devapriya** | देवप्रिय | *Devapriya* | Beloved of the gods; divinely cherished | 137 | 2 |  |
-| 8 | **Devasena** | देवसेन | *Devasena* | Lord of the divine army | 139 | 3 | ✦ |
-| 9 | **Devashri** | देवश्री | *Devaśrī* | Divine beauty; radiance of the gods | 138 | 9 |  |
-| 10 | **Devavit** | देवविद | *Devavid* | Knower of all gods; divine intelligence | 140 | 9 |  |
-| 11 | **Deveshi** | देवेशी | *Devēśī* | Lord of all gods | 134 | 2 |  |
-
-## LA — (6 names)
-
-| # | Name | Devanagari | IAST | Meaning | Shloka | Chaldean | ✦ |
-|---|------|------------|------|---------|--------|----------|---|
-| 1 | **Laksha** | लक्ष | *Lakṣa* | The perceptive; one who perceives all | 145 | 6 | ✦ |
-| 2 | **Lakshmi** | लक्ष्मी | *Lakṣmī* | The goddess of fortune; auspiciousness | 141 | 1 | ✦ |
-| 3 | **Lakshmidhara** | लक्ष्मीधर | *Lakṣmīdhara* | Bearer of Lakshmi; one who holds fortune | 143 | 5 |  |
-| 4 | **Lakshminivasa** | लक्ष्मीनिवास | *Lakṣmīnivāsa* | Abode of Lakshmi; where fortune dwells | 144 | 9 |  |
-| 5 | **Lakshmipati** | लक्ष्मीपति | *Lakṣmīpati* | Lord of Lakshmi; consort of the goddess of fortune | 142 | 6 | ✦ |
-| 6 | **Lavanya** | लावण्य | *Lāvaṇya* | Grace; elegance; divine beauty | 146 | 9 |  |
+| Column | Meaning |
+|--------|---------|
+| **Derived From** | The original sahasranama epithet (verse word) |
+| **Name** | The new modern baby boy name derived from it |
+| **Derivation** | How the name was formed from Sanskrit roots |
+| **Chaldean ✦** | Final numerology value; ✦ = preferred (1, 3, or 6) |
+| **Feel** | Modern-feel score 1-5 (5 = most contemporary-sounding) |
 
 ---
 
-## Top Picks — Preferred Chaldean Numbers (1, 3, 6)
+## SA — (18 names)
 
-| Name | Syllable | Chaldean | Devanagari | Meaning |
-|------|----------|----------|------------|---------|
-| **Gandharva** | GA | 1✦ | गन्धर्व | Celestial musician; heavenly being |
-| **Gatiman** | GA | 1✦ | गतिमान | The swift mover; one with great momentum |
-| **Jagat** | JA | 1✦ | जगत | The universe; all that moves |
-| **Jagatsetu** | JA | 1✦ | जगत्सेतु | Bridge of the universe; cosmic link |
-| **Jitamitra** | JI | 1✦ | जितमित्र | One who wins friends; affectionate victor |
-| **Lakshmi** | LA | 1✦ | लक्ष्मी | The goddess of fortune; auspiciousness |
-| **Satyavak** | SA | 1✦ | सत्यवाक | One whose words are always truth |
-| **Sukarmakrit** | SU | 1✦ | सुकर्मकृत | Doer of auspicious deeds; righteous actor |
-| **Sumedha** | SU | 1✦ | सुमेध | Of excellent intelligence; brilliantly wise |
-| **Sunishchita** | SU | 1✦ | सुनिश्चित | Absolutely certain; perfectly resolute |
-| **Surananda** | SU | 1✦ | सुरानन्द | Bliss of the gods; divine joy |
-| **Devabhrit** | DE | 3✦ | देवभृत | Supporter of the gods; sustainer of divinity |
-| **Devakiya** | DE | 3✦ | देवकीय | Son of Devaki; Krishna epithet |
-| **Devasena** | DE | 3✦ | देवसेन | Lord of the divine army |
-| **Gunakara** | GU | 3✦ | गुणकर | Mine of virtues; source of qualities |
-| **Jayatsen** | JA | 3✦ | जयत्सेन | Whose armies are victorious |
-| **Jishnu** | JI | 3✦ | जिष्णु | Victorious; the conquering one |
-| **Jitatman** | JI | 3✦ | जितात्मन | One who has conquered the self |
-| **Sahasrapada** | SA | 3✦ | सहस्रपाद | Thousand-footed; pervading all directions |
-| **Sahasrarchis** | SA | 3✦ | सहस्रार्चिस | Thousand-rayed; blazing with infinite light |
-| **Samharta** | SA | 3✦ | संहर्ता | The dissolver; reabsorber of the universe |
-| **Sanatana** | SA | 3✦ | सनातन | The eternal one; without beginning or end |
-| **Sanatkumara** | SA | 3✦ | सनत्कुमार | The ever-youthful one; eternally young |
-| **Sarvadharma** | SA | 3✦ | सर्वधर्म | Support of all dharmas; cosmic law |
-| **Siddhartha** | SI | 3✦ | सिद्धार्थ | One who has accomplished all aims |
-| **Sulabha** | SU | 3✦ | सुलभ | Easily attained by devotees; accessible |
-| **Sura** | SU | 3✦ | सुर | Divine being; lord of the celestials |
-| **Gabhira** | GA | 6✦ | गभीर | Profound; deep like the ocean |
-| **Ganapati** | GA | 6✦ | गणपति | Lord of all ganas (celestial hosts) |
-| **Gunakrit** | GU | 6✦ | गुणकृत | Creator of qualities; bestower of virtues |
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Sahasraksha* | **Sahaksh** | सहाक्ष | All-seeing; perceptive like a thousand eyes | sahasra + aksha (eye) → compressed | 2 |  | 4/5 |
+| *Sahasrajit* | **Sahjit** | सहजित | Effortless conqueror; one who wins with ease | sahasra (limitless) + jit (victor) → trimmed to modern form | 6 | ✦ | 5/5 |
+| *Samagraha* | **Samagr** | समग्र | Complete; whole in every dimension | samagra (whole/complete) → already short, drop final -a | 5 |  | 4/5 |
+| *Sambhava* | **Sambhav** | सम्भव | Self-arising; born of pure potential | sambhava → drop final -a (common modern pattern) | 4 |  | 5/5 |
+| *Samitinjaya* | **Samijay** | समिजय | Victor in every gathering; champion among peers | samiti (assembly) + jaya (victory) → modern blend | 3 | ✦ | 5/5 |
+| *Samvedh* | **Samvedh** | संवेध | One who is deeply aware; tuned into higher reality | sam (together) + vedha (awareness/piercing insight) | 1 | ✦ | 5/5 |
+| *Sanatkumara* | **Sanakumar** | सनकुमार | Eternally youthful; one who never loses his spark | sanat (eternal) + kumāra (youth) → dropped internal syllable | 7 |  | 4/5 |
+| *Sanatana* | **Sanatan** | सनातन | Rooted in eternity; timeless in spirit | sanātana → drop final vowel for masculine form | 2 |  | 4/5 |
+| *Sarathi* | **Sarath** | सारथ | The guide; one who steers life with purpose | sārathi (charioteer) → dropped suffix -i for crispness | 7 |  | 5/5 |
+| *Sarvansh* | **Sarvansh** | सर्वांश | A part of the whole; born of universal essence | sarva (all) + aṃśa (part/portion) → phonetic trim | 8 |  | 5/5 |
+| *Sarvesh* | **Sarvesh** | सर्वेश | Sovereign of all; master with boundless reach | sarva + īśa → sandhi gives sarveśa → drop -a | 7 |  | 5/5 |
+| *Sarvit* | **Sarvit** | सर्वित | All-knowing; one with boundless awareness | sarva (all) + vid (know) → vid→vit, modern ending | 8 |  | 5/5 |
+| *Satprath* | **Satprath** | सत्प्रथ | Righteous and renowned; known for walking truth | sat (truth/good) + pratha (renown) — new compound from root idea | 1 | ✦ | 5/5 |
+| *Satveer* | **Satveer** | सत्वीर | Hero of truth; valor rooted in righteousness | satya (truth) + vīra (hero) → contracted satya→sat, modern blend | 8 |  | 5/5 |
+| *Satyavrata* | **Satvrat** | सत्व्रत | Pledged to truth; unbreakable vow of integrity | satya + vrata → contract satya → sat, drop -a | 3 | ✦ | 4/5 |
+| *Satyamedha* | **Satyamedh** | सत्यमेध | Of brilliant, truth-rooted intelligence | satya (truth) + medha (intellect) → drop -a suffix | 1 | ✦ | 4/5 |
+| *Satyavak* | **Satyav** | सत्यव | One whose every word rings true | satya (truth) + vāk (speech) → trimmed suffix | 7 |  | 4/5 |
+| *Savijit* | **Savijit** | सविजित | Victorious energizer; one who wins through radiance | savitā root sav- (to vivify) + jit (victor) | 8 |  | 5/5 |
+
+## SI — (5 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Siddhansh* | **Siddhansh** | सिद्धांश | Born of perfection; a fragment of divine mastery | siddha + aṃśa → natural compound | 4 |  | 5/5 |
+| *Siddhav* | **Siddhav** | सिद्धव | Accomplished; one who masters whatever he pursues | siddha (accomplished) → drop -a, add -v for modern crispness | 6 | ✦ | 5/5 |
+| *Simhavikrama* | **Simhav** | सिंहव | Lion-hearted; courageous like a lion | siṃha (lion) + vikrama → trim to root + -v | 2 |  | 4/5 |
+| *Simhanada* | **Sinaan** | सिनान | Resonant; one whose voice commands attention | siṃha-nāda (lion-roar) → phonetic simplification → sinān | 7 |  | 5/5 |
+| *Sivaan* | **Sivaan** | शिवान | Divine grace; auspicious and pure at the core | śiva root + ān suffix (masculine, modern) | 8 |  | 5/5 |
+
+## SU — (13 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Sudheer* | **Sudheer** | सुधीर | Supremely patient and wise; calm under pressure | su (excellent) + dhīra (steadfast/wise) → drop -a | 3 | ✦ | 5/5 |
+| *Sugriva* | **Sugriv** | सुग्रीव | Handsome and strong-necked; bearing himself with grace | sugrīva → drop final -a | 3 | ✦ | 5/5 |
+| *Sujaan* | **Sujaan** | सुजान | Well-born and noble; of fine character | sujāta root → modernised with -n ending | 8 |  | 5/5 |
+| *Sujit* | **Sujit** | सुजित | One who wins rightfully; a clean and fair victor | su (well/good) + jit (conqueror) | 6 | ✦ | 5/5 |
+| *Sukran* | **Sukran** | शुक्रान | Pure-rayed; radiating clarity and purity | śukla (pure/white) → phonetic shift → sukran, -n modern | 1 | ✦ | 5/5 |
+| *Sumedhan* | **Sumedhan** | सुमेधन | Of brilliant intelligence; exceptionally sharp mind | su + medha (intelligence) + -n for modern masculine | 6 | ✦ | 5/5 |
+| *Sunav* | **Sunav** | सुनव | Auspiciously named; bearing a beautiful identity | su (auspicious) + nāma root → sunāva → sunav | 3 | ✦ | 5/5 |
+| *Suparn* | **Suparn** | सुपर्ण | Of beautiful wings; soaring free and high | suparṇa → drop final -a | 7 |  | 4/5 |
+| *Suraaj* | **Suraaj** | सुराज | Brilliantly ruling; one who leads with light | sura (divine) + rāja (king) → new compound | 5 |  | 5/5 |
+| *Suresh* | **Suresh** | सुरेश | Lord of the divine; one of heavenly authority | sura + īśa → sureśa → drop -a | 6 | ✦ | 4/5 |
+| *Suryan* | **Suryan** | सूर्यन | Solar spirit; radiant like the rising sun | sūrya + -n (modern masculine suffix) | 9 |  | 5/5 |
+| *Suvikram* | **Suvikram** | सुविक्रम | Of excellent valor; supremely courageous | su + vikrama → drop -a | 7 |  | 5/5 |
+| *Suvrat* | **Suvrat** | सुव्रत | Of noble vow; devoted and disciplined | suvrata → drop -a | 4 |  | 4/5 |
+
+## JA — (6 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Jaganth* | **Jaganth** | जगन्थ | Lord of the world; one of vast purpose | jagannātha → contract nātha → -nth | 2 |  | 5/5 |
+| *Jagatpran* | **Jagatpran** | जगत्प्राण | Life-force of the world; vitally alive | jagat + prāṇa → drop final -a | 8 |  | 5/5 |
+| *Jagesh* | **Jagesh** | जगेश | Sovereign of the world; born to lead universally | jagat + īśa → jagadīśa → phonetic compress → jagesh | 9 |  | 5/5 |
+| *Javin* | **Javin** | जविन | Swift; dynamically moving; unstoppable | javana (swift) → trim to root jav + -in | 5 |  | 5/5 |
+| *Jayaansh* | **Jayaansh** | जयांश | Born of victory; a portion of triumph | jaya + aṃśa | 9 |  | 5/5 |
+| *Jayesh* | **Jayesh** | जयेश | Lord of victory; master of all triumphs | jaya + īśa → jayeśa → drop -a | 7 |  | 4/5 |
+
+## JI — (4 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Jishan* | **Jishan** | जिशान | Conqueror; born triumphant | jiṣṇu root jiṣ- + -ān → jiśān | 7 |  | 5/5 |
+| *Jitaansh* | **Jitaansh** | जितांश | Born of self-mastery; a portion of inner victory | jita (conquered/won) + aṃśa | 3 | ✦ | 5/5 |
+| *Jivaan* | **Jivaan** | जीवान | Full of life; radiantly alive | jīvana → jīvān (modern form) | 6 | ✦ | 5/5 |
+| *Jivesh* | **Jivesh** | जिवेश | Lord of life; one who animates all around him | jīva (life) + īśa → jīveśa → drop -a, phonetic trim | 3 | ✦ | 5/5 |
+
+## GA — (5 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Gabhiran* | **Gabhiran** | गभीरन | Profoundly deep; of unfathomable character | gabhīra (profound/deep) + -n modern suffix | 2 |  | 5/5 |
+| *Ganish* | **Ganish** | गनिश | Lord of all; one who commands every domain | gaṇa (host/group) + īśa → gaṇiśa → phonetic trim | 9 |  | 5/5 |
+| *Gatijit* | **Gatijit** | गतिजित | Swift conqueror; one who wins through momentum | gati (motion/speed) + jit (victor) — new compound from roots | 6 | ✦ | 5/5 |
+| *Gauresh* | **Gauresh** | गौरेश | Radiant lord; brilliantly luminous leader | gaura (bright/radiant) + īśa → gaureśa | 7 |  | 5/5 |
+| *Gavesh* | **Gavesh** | गवेश | Seeker of truth; one who searches with purpose | gavesana (seeking/searching) → trimmed to root | 5 |  | 5/5 |
+
+## GU — (4 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Gunav* | **Gunav** | गुणव | Endowed with virtues; naturally excellent | guṇa + -v ending for modern boy name | 3 | ✦ | 5/5 |
+| *Gunesh* | **Gunesh** | गुणेश | Master of virtues; one whose character is supreme | guṇa (virtue) + īśa → guṇeśa → drop -a | 9 |  | 5/5 |
+| *Guransh* | **Guransh** | गुरांश | Born of wisdom; part of the guru principle | guru + aṃśa | 7 |  | 5/5 |
+| *Gurudev* | **Gurudev** | गुरुदेव | Divinely guided; one who reveres his teacher | guru + deva → drop -a | 5 |  | 4/5 |
+
+## DE — (6 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Devaan* | **Devaan** | देवान | Radiant; shining with divine quality | deva + ān (Sanskrit suffix for fulness) | 4 |  | 5/5 |
+| *Devansh* | **Devansh** | देवांश | Born of the divine; a spark of cosmic brilliance | deva + aṃśa | 2 |  | 5/5 |
+| *Devesh* | **Devesh** | देवेश | Sovereign of the divine; naturally commanding | deva + īśa → deveśa → drop -a | 1 | ✦ | 5/5 |
+| *Devit* | **Devit** | देवित | Illumined; touched by divine energy | deva root dev- + -it (active participle suffix) | 2 |  | 5/5 |
+| *Devraj* | **Devraj** | देवराज | King among the brilliant; natural leader | deva + rāja → drop -a | 1 | ✦ | 4/5 |
+| *Devyan* | **Devyan** | देव्यन | On the divine path; journeying toward the sacred | deva + -yan (Sanskrit -yāna = journey/path) | 4 |  | 5/5 |
+
+## LA — (3 names)
+
+| Derived From | Name | Devanagari | Meaning | Derivation | Chaldean | ✦ | Feel |
+|-------------|------|------------|---------|------------|----------|---|------|
+| *Lakshan* | **Lakshan** | लक्षन | Auspiciously marked; one who bears signs of greatness | lakṣaṇa (auspicious marks) → drop final -a | 2 |  | 5/5 |
+| *Lavesh* | **Lavesh** | लवेश | Graceful sovereign; commanding with elegance | lāvaṇya (grace) root lav- + īśa → laveśa | 5 |  | 5/5 |
+| *Lavitr* | **Lavitr** | लवित्र | Instrument of grace; bearer of beauty | lāvaṇya root + -tra (instrument/bearer suffix) | 8 |  | 5/5 |
+
+---
+
+## Top Picks — Highest Modern Feel + Preferred Chaldean
+
+| Name | Syllable | Chaldean | Devanagari | Meaning | Derived From |
+|------|----------|----------|------------|---------|-------------|
+| **Devesh** | DE | 1✦ | देवेश | Sovereign of the divine; naturally commanding | *Devesh* |
+| **Gatijit** | GA | 6✦ | गतिजित | Swift conqueror; one who wins through momentum | *Gatijit* |
+| **Gunav** | GU | 3✦ | गुणव | Endowed with virtues; naturally excellent | *Gunav* |
+| **Jitaansh** | JI | 3✦ | जितांश | Born of self-mastery; a portion of inner victory | *Jitaansh* |
+| **Jivaan** | JI | 6✦ | जीवान | Full of life; radiantly alive | *Jivaan* |
+| **Jivesh** | JI | 3✦ | जिवेश | Lord of life; one who animates all around him | *Jivesh* |
+| **Sahjit** | SA | 6✦ | सहजित | Effortless conqueror; one who wins with ease | *Sahasrajit* |
+| **Samijay** | SA | 3✦ | समिजय | Victor in every gathering; champion among peers | *Samitinjaya* |
+| **Samvedh** | SA | 1✦ | संवेध | One who is deeply aware; tuned into higher reality | *Samvedh* |
+| **Satprath** | SA | 1✦ | सत्प्रथ | Righteous and renowned; known for walking truth | *Satprath* |
+| **Siddhav** | SI | 6✦ | सिद्धव | Accomplished; one who masters whatever he pursues | *Siddhav* |
+| **Sudheer** | SU | 3✦ | सुधीर | Supremely patient and wise; calm under pressure | *Sudheer* |
+| **Sugriv** | SU | 3✦ | सुग्रीव | Handsome and strong-necked; bearing himself with grace | *Sugriva* |
+| **Sujit** | SU | 6✦ | सुजित | One who wins rightfully; a clean and fair victor | *Sujit* |
+| **Sukran** | SU | 1✦ | शुक्रान | Pure-rayed; radiating clarity and purity | *Sukran* |
+| **Sumedhan** | SU | 6✦ | सुमेधन | Of brilliant intelligence; exceptionally sharp mind | *Sumedhan* |
+| **Sunav** | SU | 3✦ | सुनव | Auspiciously named; bearing a beautiful identity | *Sunav* |
+| **Devaan** | DE | 4 | देवान | Radiant; shining with divine quality | *Devaan* |
+| **Devansh** | DE | 2 | देवांश | Born of the divine; a spark of cosmic brilliance | *Devansh* |
+| **Devit** | DE | 2 | देवित | Illumined; touched by divine energy | *Devit* |
+| **Devyan** | DE | 4 | देव्यन | On the divine path; journeying toward the sacred | *Devyan* |
+| **Gabhiran** | GA | 2 | गभीरन | Profoundly deep; of unfathomable character | *Gabhiran* |
+| **Ganish** | GA | 9 | गनिश | Lord of all; one who commands every domain | *Ganish* |
+| **Gauresh** | GA | 7 | गौरेश | Radiant lord; brilliantly luminous leader | *Gauresh* |
+| **Gavesh** | GA | 5 | गवेश | Seeker of truth; one who searches with purpose | *Gavesh* |
+| **Gunesh** | GU | 9 | गुणेश | Master of virtues; one whose character is supreme | *Gunesh* |
+| **Guransh** | GU | 7 | गुरांश | Born of wisdom; part of the guru principle | *Guransh* |
+| **Jaganth** | JA | 2 | जगन्थ | Lord of the world; one of vast purpose | *Jaganth* |
+| **Jagatpran** | JA | 8 | जगत्प्राण | Life-force of the world; vitally alive | *Jagatpran* |
+| **Jagesh** | JA | 9 | जगेश | Sovereign of the world; born to lead universally | *Jagesh* |
+| **Javin** | JA | 5 | जविन | Swift; dynamically moving; unstoppable | *Javin* |
+| **Jayaansh** | JA | 9 | जयांश | Born of victory; a portion of triumph | *Jayaansh* |
+| **Jishan** | JI | 7 | जिशान | Conqueror; born triumphant | *Jishan* |
+| **Lakshan** | LA | 2 | लक्षन | Auspiciously marked; one who bears signs of greatness | *Lakshan* |
+| **Lavesh** | LA | 5 | लवेश | Graceful sovereign; commanding with elegance | *Lavesh* |
+| **Lavitr** | LA | 8 | लवित्र | Instrument of grace; bearer of beauty | *Lavitr* |
+| **Sambhav** | SA | 4 | सम्भव | Self-arising; born of pure potential | *Sambhava* |
+| **Sarath** | SA | 7 | सारथ | The guide; one who steers life with purpose | *Sarathi* |
+| **Sarvansh** | SA | 8 | सर्वांश | A part of the whole; born of universal essence | *Sarvansh* |
+| **Sarvesh** | SA | 7 | सर्वेश | Sovereign of all; master with boundless reach | *Sarvesh* |
+| **Sarvit** | SA | 8 | सर्वित | All-knowing; one with boundless awareness | *Sarvit* |
+| **Satveer** | SA | 8 | सत्वीर | Hero of truth; valor rooted in righteousness | *Satveer* |
+| **Savijit** | SA | 8 | सविजित | Victorious energizer; one who wins through radiance | *Savijit* |
+| **Siddhansh** | SI | 4 | सिद्धांश | Born of perfection; a fragment of divine mastery | *Siddhansh* |
+| **Sinaan** | SI | 7 | सिनान | Resonant; one whose voice commands attention | *Simhanada* |
+| **Sivaan** | SI | 8 | शिवान | Divine grace; auspicious and pure at the core | *Sivaan* |
+| **Sujaan** | SU | 8 | सुजान | Well-born and noble; of fine character | *Sujaan* |
+| **Suraaj** | SU | 5 | सुराज | Brilliantly ruling; one who leads with light | *Suraaj* |
+| **Suryan** | SU | 9 | सूर्यन | Solar spirit; radiant like the rising sun | *Suryan* |
+| **Suvikram** | SU | 7 | सुविक्रम | Of excellent valor; supremely courageous | *Suvikram* |
+| **Devraj** | DE | 1✦ | देवराज | King among the brilliant; natural leader | *Devraj* |
+| **Satvrat** | SA | 3✦ | सत्व्रत | Pledged to truth; unbreakable vow of integrity | *Satyavrata* |
+| **Satyamedh** | SA | 1✦ | सत्यमेध | Of brilliant, truth-rooted intelligence | *Satyamedha* |
+| **Suresh** | SU | 6✦ | सुरेश | Lord of the divine; one of heavenly authority | *Suresh* |
+| **Gurudev** | GU | 5 | गुरुदेव | Divinely guided; one who reveres his teacher | *Gurudev* |
+| **Jayesh** | JA | 7 | जयेश | Lord of victory; master of all triumphs | *Jayesh* |
+| **Sahaksh** | SA | 2 | सहाक्ष | All-seeing; perceptive like a thousand eyes | *Sahasraksha* |
+| **Samagr** | SA | 5 | समग्र | Complete; whole in every dimension | *Samagraha* |
+| **Sanakumar** | SA | 7 | सनकुमार | Eternally youthful; one who never loses his spark | *Sanatkumara* |
+| **Sanatan** | SA | 2 | सनातन | Rooted in eternity; timeless in spirit | *Sanatana* |
+| **Satyav** | SA | 7 | सत्यव | One whose every word rings true | *Satyavak* |
+| **Simhav** | SI | 2 | सिंहव | Lion-hearted; courageous like a lion | *Simhavikrama* |
+| **Suparn** | SU | 7 | सुपर्ण | Of beautiful wings; soaring free and high | *Suparn* |
+| **Suvrat** | SU | 4 | सुव्रत | Of noble vow; devoted and disciplined | *Suvrat* |
