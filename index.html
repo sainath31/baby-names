@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hindu Baby Boy Names – Jan 2027</title>
+<style>
+:root{--bg:#0f1117;--card:#1a1d27;--border:#2d3148;--accent:#7c6af7;--text:#e2e8f0;--muted:#94a3b8;--green:#4ade80;--gold:#fbbf24}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,sans-serif;min-height:100vh}
+header{padding:2rem;text-align:center;background:linear-gradient(135deg,#1a1d27,#0f1117)}
+header h1{font-size:2rem;background:linear-gradient(135deg,var(--accent),var(--gold));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+header p{color:var(--muted);margin-top:.5rem}
+.filters{position:sticky;top:0;z-index:10;background:rgba(15,17,23,.95);backdrop-filter:blur(8px);padding:1rem 2rem;display:flex;flex-wrap:wrap;gap:.75rem;border-bottom:1px solid var(--border)}
+input,select{background:var(--card);border:1px solid var(--border);color:var(--text);padding:.5rem .75rem;border-radius:.5rem;font-size:.875rem}
+input{flex:1;min-width:200px}
+label{display:flex;align-items:center;gap:.4rem;font-size:.875rem;color:var(--muted);cursor:pointer}
+.stats{padding:.5rem 2rem;font-size:.8rem;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1rem;padding:1rem 2rem 3rem}
+.card{background:var(--card);border:1px solid var(--border);border-radius:.75rem;padding:1.25rem;transition:.2s}
+.card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.card-top{display:flex;justify-content:space-between;align-items:flex-start}
+.name{font-size:1.25rem;font-weight:700;color:var(--accent)}
+.deva{font-size:1.1rem;color:var(--gold)}
+.syllable{background:var(--accent);color:#fff;font-size:.7rem;padding:.2rem .5rem;border-radius:1rem;font-weight:600}
+.meaning{font-size:.875rem;color:var(--muted);margin:.5rem 0}
+.meta{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.75rem}
+.tag{font-size:.7rem;padding:.2rem .5rem;border-radius:1rem;border:1px solid var(--border);color:var(--muted)}
+.tag.pref{border-color:var(--green);color:var(--green)}
+.tag.source{border-color:#60a5fa;color:#60a5fa}
+.loading{text-align:center;padding:4rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Hindu Baby Boy Names · Jan 2027</h1>
+  <p>Nakshatra syllables: Sa · Si · Su · Se · Ja · Ji · Ga · Gu · De · La</p>
+</header>
+<div class="filters">
+  <input type="text" id="q" placeholder="Search names, meanings…">
+  <select id="syl"><option value="">All syllables</option></select>
+  <select id="src"><option value="">All sources</option></select>
+  <select id="sort">
+    <option value="score">Sort: Top rated</option>
+    <option value="alpha">Sort: A–Z</option>
+    <option value="chaldean">Sort: Chaldean</option>
+    <option value="feel">Sort: Modern feel</option>
+  </select>
+  <label><input type="checkbox" id="pref"> Preferred numbers only</label>
+</div>
+<div class="stats" id="stats"></div>
+<div class="grid" id="grid"><div class="loading">Loading names…</div></div>
+<script src="names.js"></script>
+<script>
+const NAMES = window.NAMES || [];
+const sylSel = document.getElementById('syl');
+const srcSel = document.getElementById('src');
+const qEl = document.getElementById('q');
+const sortEl = document.getElementById('sort');
+const prefEl = document.getElementById('pref');
+const grid = document.getElementById('grid');
+const stats = document.getElementById('stats');
+
+const syls = [...new Set(NAMES.map(n=>n.syllable))].sort();
+syls.forEach(s=>{const o=document.createElement('option');o.value=s;o.textContent=s;sylSel.appendChild(o)});
+const srcs = [...new Set(NAMES.map(n=>n.source||'Research'))].sort();
+srcs.forEach(s=>{const o=document.createElement('option');o.value=s;o.textContent=s;srcSel.appendChild(o)});
+
+function render(){
+  let names = [...NAMES];
+  const q = qEl.value.toLowerCase();
+  const syl = sylSel.value;
+  const src = srcSel.value;
+  const pref = prefEl.checked;
+  if(q) names = names.filter(n=>n.name.toLowerCase().includes(q)||n.meaning.toLowerCase().includes(q));
+  if(syl) names = names.filter(n=>n.syllable===syl);
+  if(src) names = names.filter(n=>(n.source||'Research')===src);
+  if(pref) names = names.filter(n=>n.preferred_number==='✦');
+  const sort = sortEl.value;
+  if(sort==='alpha') names.sort((a,b)=>a.name.localeCompare(b.name));
+  else if(sort==='chaldean') names.sort((a,b)=>a.chaldean_final-b.chaldean_final);
+  else if(sort==='feel') names.sort((a,b)=>(b.modern_feel||0)-(a.modern_feel||0));
+  else names.sort((a,b)=>(b.overall_score||0)-(a.overall_score||0));
+  stats.textContent = `Showing ${names.length} of ${NAMES.length} names`;
+  grid.innerHTML = names.slice(0,500).map(n=>`
+    <div class="card">
+      <div class="card-top">
+        <div>
+          <div class="name">${n.name}</div>
+          ${n.devanagari?`<div class="deva">${n.devanagari}</div>`:''}
+        </div>
+        <span class="syllable">${n.syllable}</span>
+      </div>
+      <div class="meaning">${n.meaning}</div>
+      <div class="meta">
+        <span class="tag">Chaldean ${n.chaldean_final}</span>
+        ${n.preferred_number==='✦'?'<span class="tag pref">✦ Preferred</span>':''}
+        ${n.source?`<span class="tag source">${n.source}</span>`:''}
+        ${n.deity?`<span class="tag">${n.deity}</span>`:''}
+        ${n.modern_feel?`<span class="tag">Feel ${n.modern_feel}/5</span>`:''}
+      </div>
+    </div>`).join('');
+}
+
+[qEl,sylSel,srcSel,sortEl,prefEl].forEach(el=>el.addEventListener('input',render));
+if(NAMES.length>0) render();
+else document.querySelector('.loading').textContent='No names loaded. Check names.js.';
+</script>
+</body>
+</html>
